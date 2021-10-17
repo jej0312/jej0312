@@ -19,7 +19,7 @@ For more information, please visit [here](https://jej0312.github.io/about/).
 
 🔥 Skills & Tools
 ---
-🔹 Programming: `Python`  `R`  `SQL`  `MongoDB`
+🔹 Programming: `Python`  `R`  `SQL`
 
 🔹 Visualization: `QGIS`  `Tableau`  `Gephi`
 
