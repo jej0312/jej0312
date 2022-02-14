@@ -47,5 +47,5 @@ For more information, please visit [here](https://jej0312.github.io/about/).
 
 📄 Papers
 ---
-Gan, J. H., Nam, S. H., Seo, Y. J., Jeon, E. J., & Lee, K. C. (2019), “서울시 열섬현상 완화를 위한 바람길 및 녹지 입지 선정 제안 : 클러스터링 및 랜덤포레스트 변수 중요도를 활용한 열섬척도 제안을 중심으로”, _Digital Management Review_, 6(1), 27-38.
+Gan, J. H., Nam, S. H., Seo, Y. J., Jeon, E. J., & Lee, K. C. (2019), “서울시 열섬현상 완화를 위한 바람길 및 녹지 입지 선정 제안 : 클러스터링 및 랜덤포레스트 변수 중요도를 활용한 열섬척도 제안을 중심으로”, _Digital Management Review_, 6(1), 27-38.  
 E. Jeon, C. W. Lee and J. Ryu. (2021), “공공연구성과 실용화를 위한 데이터 기반의 기술 포트폴리오 분석: 빅데이터 및 인공지능 분야를 중심으로”. _한국빅데이터학회 학회지_, 6(2), 71-84.
